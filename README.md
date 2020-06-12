@@ -16,7 +16,7 @@ Hello there
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://www.bd-pratidin.com/).
+For more details see [click](https://www.bd-pratidin.com/).
 
 ### Jekyll Themes
 
